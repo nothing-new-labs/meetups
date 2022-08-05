@@ -1,8 +1,9 @@
+- Topic: The Cascades Optimizer Framework Paper Reading
+- Date: 2022-07-20
+
 # Paper Reading: The Cascades Framework for Query Optimization
 
 This papre describes a new extensible query optimization framework that resolves many of the shortcomings of the *EXODUS* and *Volvano optimizer generators*.
-
-
 
 ## Introduction
 

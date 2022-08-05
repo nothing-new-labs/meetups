@@ -1,3 +1,6 @@
+- Topic: The Volcano Optimizer Generator Paper Reading
+- Date: 2022-07-10
+
 # Paper Reading: The Volcano Optimizer Generator: Extensibility and Efficient Search
 
 - A new optimizer generator: **Data model, logical algebra, physical algebra, and optimization rules** are translated by the optimizer generator into optimizer source code.
